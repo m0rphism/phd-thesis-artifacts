@@ -1,0 +1,3 @@
+services:
+  bst-agda-algorithmic-typing:
+    build: .

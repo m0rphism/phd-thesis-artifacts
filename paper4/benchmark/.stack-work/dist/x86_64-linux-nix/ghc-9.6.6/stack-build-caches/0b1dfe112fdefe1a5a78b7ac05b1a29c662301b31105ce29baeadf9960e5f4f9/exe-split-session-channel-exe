@@ -1,0 +1,22 @@
+? /home/m0rphism/Work/phd/papers/law-and-order/bsession/notes/session-instance/artifact-final-v2/artifact/benchmark/.stack-work/dist/x86_64-linux-nix/ghc-9.6.6/build/split-session-channel-exe/autogen/Paths_split_session_channel.hs
+: hash: acc22b0381fd2883cfd277f2a472aad3b5ed8632bd99b177f746e23d601cf8e3
+? /home/m0rphism/Work/phd/papers/law-and-order/bsession/notes/session-instance/artifact-final-v2/artifact/benchmark/.stack-work/dist/x86_64-linux-nix/ghc-9.6.6/build/split-session-channel-exe/autogen/cabal_macros.h
+: hash: 5f593d9dce6f8274cb2f6be1c39032418f3433755fbed9ebc450ccc985d449b0
+/home/m0rphism/Work/phd/papers/law-and-order/bsession/notes/session-instance/artifact-final-v2/artifact/benchmark/CHANGELOG.md:
+  hash: 484db277f9bd442241a6b8d991869977eebeb0454519dc8aff36e8c61a684c5a
+/home/m0rphism/Work/phd/papers/law-and-order/bsession/notes/session-instance/artifact-final-v2/artifact/benchmark/README.md:
+  hash: 1f8b98835068f91dcdc601a36860d66a2c12e5f3633a422d21b6983299aff86a
+/home/m0rphism/Work/phd/papers/law-and-order/bsession/notes/session-instance/artifact-final-v2/artifact/benchmark/app/Benchme.hs:
+  hash: 5c4c7c468c98cd41b55302099d3e462204009eb266996a470bfe0942d4d6f291
+/home/m0rphism/Work/phd/papers/law-and-order/bsession/notes/session-instance/artifact-final-v2/artifact/benchmark/app/Main.hs:
+  hash: 170aacec9e1d74048de2cc0d8d87141524595ac2d0486e894e1a2d0cd6f97bbb
+? /home/m0rphism/Work/phd/papers/law-and-order/bsession/notes/session-instance/artifact-final-v2/artifact/benchmark/app/StressTest.hs
+: hash: 6845babc2af146a63e86fef4e8075efe855eecf88025cda43b93160ae1e8ccc2
+/home/m0rphism/Work/phd/papers/law-and-order/bsession/notes/session-instance/artifact-final-v2/artifact/benchmark/package.yaml:
+  hash: 58b456d5756d15bec07b27b5332c3a67474b1bc0c9b54dac057a5877dfa73333
+? /home/m0rphism/Work/phd/papers/law-and-order/bsession/notes/session-instance/artifact-final-v2/artifact/benchmark/split-session-channel.cabal
+: hash: 3972cf2e3d7eacbad078fd04331166ed269dcca97f6b3c0a7485d9947cbebfbc
+/nix/store/74qjr01q87nwfl0dbsr1s45p8crw3q1f-glibc-2.40-66-dev/include/stdc-predef.h:
+  hash: 8db4f65e62cade8ae4d9b77960ee6aee093255acc1b637e3fb37d79179733b15
+/nix/store/kxf8d8fckhz31ck2r0v4pa8zm8ck0m8f-ghc-9.6.6/lib/ghc-9.6.6/lib/x86_64-linux-ghc-9.6.6/rts-1.0.2/include/ghcversion.h:
+  hash: 9032f6afc97dcddfe8c8b306639eb6f456e3f6667f3dd8268681f51bb77c8634

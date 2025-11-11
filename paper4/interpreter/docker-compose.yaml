@@ -1,0 +1,6 @@
+services:
+  bst-interpreter:
+    build: .
+
+    volumes:
+      - .:/bsti

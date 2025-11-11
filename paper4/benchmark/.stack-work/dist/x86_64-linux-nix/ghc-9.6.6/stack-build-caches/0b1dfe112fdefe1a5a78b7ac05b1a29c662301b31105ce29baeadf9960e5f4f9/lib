@@ -1,0 +1,18 @@
+? /home/m0rphism/Work/phd/papers/law-and-order/bsession/notes/session-instance/artifact-final-v2/artifact/benchmark/.stack-work/dist/x86_64-linux-nix/ghc-9.6.6/build/autogen/Paths_split_session_channel.hs
+: hash: 180a4d49c84b757a3829fb976c493e5063676a020238f677f30c75c9d62536af
+? /home/m0rphism/Work/phd/papers/law-and-order/bsession/notes/session-instance/artifact-final-v2/artifact/benchmark/.stack-work/dist/x86_64-linux-nix/ghc-9.6.6/build/autogen/cabal_macros.h
+: hash: ca0f181e163bc1a262f9a4ac916aee68d747046c591b09556194b89f02803497
+/home/m0rphism/Work/phd/papers/law-and-order/bsession/notes/session-instance/artifact-final-v2/artifact/benchmark/CHANGELOG.md:
+  hash: 484db277f9bd442241a6b8d991869977eebeb0454519dc8aff36e8c61a684c5a
+/home/m0rphism/Work/phd/papers/law-and-order/bsession/notes/session-instance/artifact-final-v2/artifact/benchmark/README.md:
+  hash: 1f8b98835068f91dcdc601a36860d66a2c12e5f3633a422d21b6983299aff86a
+/home/m0rphism/Work/phd/papers/law-and-order/bsession/notes/session-instance/artifact-final-v2/artifact/benchmark/package.yaml:
+  hash: 58b456d5756d15bec07b27b5332c3a67474b1bc0c9b54dac057a5877dfa73333
+? /home/m0rphism/Work/phd/papers/law-and-order/bsession/notes/session-instance/artifact-final-v2/artifact/benchmark/split-session-channel.cabal
+: hash: 3972cf2e3d7eacbad078fd04331166ed269dcca97f6b3c0a7485d9947cbebfbc
+/home/m0rphism/Work/phd/papers/law-and-order/bsession/notes/session-instance/artifact-final-v2/artifact/benchmark/src/Lib.hs:
+  hash: 8a907bb1c24b9a77270f6a42932096cfee552d90148a6e7900334b9fb98fe299
+/nix/store/74qjr01q87nwfl0dbsr1s45p8crw3q1f-glibc-2.40-66-dev/include/stdc-predef.h:
+  hash: 8db4f65e62cade8ae4d9b77960ee6aee093255acc1b637e3fb37d79179733b15
+/nix/store/kxf8d8fckhz31ck2r0v4pa8zm8ck0m8f-ghc-9.6.6/lib/ghc-9.6.6/lib/x86_64-linux-ghc-9.6.6/rts-1.0.2/include/ghcversion.h:
+  hash: 9032f6afc97dcddfe8c8b306639eb6f456e3f6667f3dd8268681f51bb77c8634

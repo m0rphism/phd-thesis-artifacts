@@ -1,0 +1,6 @@
+services:
+  bst-benchmark:
+    build: .
+
+    # volumes:
+    #   - .:/app
