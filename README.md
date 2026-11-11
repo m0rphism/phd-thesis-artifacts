@@ -1,8 +1,8 @@
 # Session Types in Reference-Passing Style
 ## Artifact Collection
 
-This repository contains the artifacts for the five papers presented in my
-cumulative PhD thesis.
+This repository contains the artifacts for the five papers presented in [my
+cumulative PhD thesis](https://freidok.uni-freiburg.de/data/283665).
 
 The artifact for each paper is located in a separate subdirectory:
 
